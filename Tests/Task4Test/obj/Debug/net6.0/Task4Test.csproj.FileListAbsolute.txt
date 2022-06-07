@@ -1,0 +1,6 @@
+E:\SHIPLU\AdmissionTest\aspnetb7-at4\AdmissionTest4\Tests\Task4Test\bin\Debug\net6.0\CoverletSourceRootsMapping
+E:\SHIPLU\AdmissionTest\aspnetb7-at4\AdmissionTest4\Tests\Task4Test\obj\Debug\net6.0\Task4Test.csproj.AssemblyReference.cache
+E:\SHIPLU\AdmissionTest\aspnetb7-at4\AdmissionTest4\Tests\Task4Test\obj\Debug\net6.0\Task4Test.GeneratedMSBuildEditorConfig.editorconfig
+E:\SHIPLU\AdmissionTest\aspnetb7-at4\AdmissionTest4\Tests\Task4Test\obj\Debug\net6.0\Task4Test.AssemblyInfoInputs.cache
+E:\SHIPLU\AdmissionTest\aspnetb7-at4\AdmissionTest4\Tests\Task4Test\obj\Debug\net6.0\Task4Test.AssemblyInfo.cs
+E:\SHIPLU\AdmissionTest\aspnetb7-at4\AdmissionTest4\Tests\Task4Test\obj\Debug\net6.0\Task4Test.csproj.CoreCompileInputs.cache
